@@ -1,0 +1,7 @@
+site,lat,lon,hours_above,pct_above,longest_run_h,alert,action,rank
+"Phoenix, AZ — downtown",33.4484,-112.074,340.9,94.7,16.0,Extreme,Stop-work windows; mandatory shade + hydration; reschedule to night shifts,1
+"Las Vegas, NV — strip",36.1147,-115.1728,309.9,86.1,16.0,Extreme,Stop-work windows; mandatory shade + hydration; reschedule to night shifts,2
+"Dallas, TX — downtown",32.7767,-96.797,263.0,73.1,16.0,Warning,Enforced rest/water cycles; buddy checks; monitor vulnerable crew,3
+"Houston, TX — ship channel",29.7355,-95.286,188.0,52.2,16.0,Caution,Hydration reminders; watch afternoon peak; brief crews,4
+"Miami, FL — downtown",25.7617,-80.1918,122.0,33.9,14.6,Elevated,Standard hot-weather precautions,5
+"Sacramento, CA — downtown",38.5816,-121.4944,109.3,30.4,16.0,Elevated,Standard hot-weather precautions,6
